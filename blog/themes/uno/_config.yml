@@ -1,8 +1,8 @@
 # Header
 menu:
-  Blog: /#blog
-  About: /about
-  Blogroll: /blogroll
+  Blog: /hexo-website/#blog
+  About: /hexo-website/about
+  Blogroll: /hexo-website/blogroll
 
 # Site favicon
 favicon: /favicon.png
