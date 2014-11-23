@@ -5,7 +5,7 @@
 # Site
 title: Hexo
 subtitle:
-description:
+description: My blog
 author: John Doe
 email:
 language:
@@ -74,15 +74,16 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname:
+disqus_shortname: thomas-guerin
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: huno
 exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: git@github.com:tguerin/hexo-website.git
