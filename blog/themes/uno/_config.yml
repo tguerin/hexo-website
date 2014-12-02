@@ -1,8 +1,8 @@
 # Header
 menu:
   Blog: /#blog
-  About: /about
-  Blogroll: /blogroll
+#  About: /about
+#  Blogroll: /blogroll
 
 # Site favicon
 favicon: /favicon.png
